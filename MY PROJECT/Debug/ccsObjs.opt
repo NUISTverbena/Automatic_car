@@ -1,0 +1,13 @@
+"./ti_msp_dl_config.o"
+"./startup_mspm0g350x_ticlang.o"
+"./main.o"
+"./OLED/oled.o"
+"./Pathfinding_algorithm/firstmode.o"
+"./Pathfinding_algorithm/secondmode.o"
+"./Pathfinding_algorithm/thirdmode.o"
+"./hardware/gpioreader.o"
+"./hardware/motor.o"
+"./hardware/pid.o"
+-l"./device_linker.cmd"
+-ldevice.cmd.genlibs
+-llibc.a

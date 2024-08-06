@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "file:///c%3A/Users/wangjie/workspace_ccstheia"
+    },
+    {
+      "path": ""
+    }
+  ],
+  "settings": {},
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "MY PROJECT",
+        "type": "ccs-debug",
+        "request": "launch",
+        "project": "MY PROJECT"
+      }
+    ]
+  }
+}

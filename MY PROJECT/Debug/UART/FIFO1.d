@@ -1,0 +1,3 @@
+# FIXED
+
+UART/FIFO1.o: ../UART/FIFO1.c
